@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\WEB\\net core 6\\shoppingcart\\ShoppingCart.Web\\ShoppingCart.Web.csproj": {}
+  },
+  "projects": {
+    "F:\\WEB\\net core 6\\shoppingcart\\ShoppingCart.Web\\ShoppingCart.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\WEB\\net core 6\\shoppingcart\\ShoppingCart.Web\\ShoppingCart.Web.csproj",
+        "projectName": "ShoppingCart.Web",
+        "projectPath": "F:\\WEB\\net core 6\\shoppingcart\\ShoppingCart.Web\\ShoppingCart.Web.csproj",
+        "packagesPath": "C:\\Users\\DTTRUNG\\.nuget\\packages\\",
+        "outputPath": "F:\\WEB\\net core 6\\shoppingcart\\ShoppingCart.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DTTRUNG\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "F:\\WEB\\nuget package": {},
+          "http://packages.nuget.org/v1/FeedService.svc/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

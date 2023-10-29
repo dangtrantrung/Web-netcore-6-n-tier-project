@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Ul/pSeg0z7DnomWKum0w3latBDuhA2rszpvUoZyHgKI5nadwIQNOvImRTpcgkOw1hEmHGl9OKd4jZZ6r/Zi8A==",
+  "success": true,
+  "projectFilePath": "F:\\WEB\\net core 6\\shoppingcart\\ShoppingCart.Web\\ShoppingCart.Web.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://packages.nuget.org/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
